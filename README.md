@@ -6,7 +6,7 @@ Datasets and numerical model files used in SisBaHiA® computational simulations 
 
 ## Data
 
-This repository contains datasets used in the SisBaHiA® hydrodynamic simulations for the Piratininga-Itaipu Lagoon System (SLPI).
+This repository contains datasets used in the SisBaHiA® simulations for the Piratininga-Itaipu Lagoon System (SLPI).
 
 ---
 
@@ -38,15 +38,17 @@ SLPI-water-renewal/
 - Wind forcing datasets;
 - Tidal calibration spreadsheets;
 - Marine and terrestrial boundary conditions;
-- SisBaHiA® model database;
-- Water renewal simulations;
-- Water age simulations;
+- Inicial conditions;
+- SisBaHiA® computational mesh;
+- Water renewal results;
+- Water age results;
 
 ---
 
 ## Author
 Roberta Caldas Salcedo Reis
 (Reis, R. C. S.)
+robertareis@id.uff.br
 
 
 Fluminense Federal University (UFF)  
