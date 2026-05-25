@@ -19,6 +19,7 @@ SLPI-water-renewal/
 │   ├── bathymetry/
 │   ├── wind/
 │   ├── tidal_calibration/
+│   ├── methodology/
 │   ├── boundary_conditions/
 │   └── sisbahia_database/
 │
